@@ -2,6 +2,7 @@
 Prediction model for sale 
 
 Step for buliding model are shown below:
+
 Loading data file (.csv format)
 Checking the information link shape, datatype etc
 Checking and filling null values
