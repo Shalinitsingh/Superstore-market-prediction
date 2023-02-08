@@ -4,24 +4,24 @@ Prediction model for sale
 Step for buliding model are shown below:
 
 
-Loading data file (.csv format)
+1. Loading data file (.csv format)
 
-Checking the information link shape, datatype etc.
+2. Checking the information link shape, datatype etc.
 
-Checking and filling null values
+3. Checking and filling null values
 
-perfoming one-hot encoding
+4. perfoming one-hot encoding
 
-balancing imbalance dataset
+5. balancing imbalance dataset
 
-finding and removing outliers
+6. finding and removing outliers
 
-feature selection (checking highly correlted features)
+7. feature selection (checking highly correlted features)
 
-splitting data into train and test
+8. splitting data into train and test
 
-model loding and fitting for data
+9. model loding and fitting for data
 
-predictiong values
+10. predictiong values
 
-Checking accuracy
+11. Checking accuracy
